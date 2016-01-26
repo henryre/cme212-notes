@@ -1,6 +1,6 @@
 # cme212-notes
 
-NWH notes for CME 212
+NWH notes for CME 212, supplemented with henryre's notes
 
 ## Generating PDFs
 
